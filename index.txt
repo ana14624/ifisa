@@ -1,0 +1,125 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?
+
+family=Open+Sans:ital,wght@0,300;1,400&
+
+family=Spline+Sans:wght@300;400&display=swap" 
+
+rel="stylesheet">
+
+Industria Forestal Integral
+    1. Cambiar los enlaces de redes sociales a los actuales.
+    2.Colores:
+	#454E33
+	#9ABF15
+	#8DA633
+	#E0F2A0
+	#FFFFFF
+    3.Tipograf�a:
+	H1 T�tulo: font-family: 'Spline Sans', sans-serif;
+    	h2 Subtitulo:  font-family: 'Open Sans', sans-serif;
+	P�rrafo: font-family: 'Open Sans', sans-serif;
+
+    4.Estilos de botones:
+
+
+
+/*
+$name = $_POST['name'];
+$mail = $_POST['mail'];
+$phone = $_POST['phone'];
+$message = $_POST['message'];
+
+$header = 'From: ' . $mail . " \r\n";
+$header .= "X-Mailer: PHP/" . phpversion() . " \r\n";
+$header .= "Mime-Version: 1.0 \r\n";
+$header .= "Content-Type: text/plain";
+
+$message = "Este mensaje fue enviado por: " . $name . " \r\n";
+$message .= "Su e-mail es: " . $mail . " \r\n";
+$message .= "Teléfono de contacto: " . $phone . " \r\n";
+$message .= "Mensaje: " . $_POST['message'] . " \r\n";
+$message .= "Enviado el: " . date('d/m/Y', time());
+
+$para = 'anayeligonzalez14624@gmail.com';
+$asunto = 'Formulario de CONTÁCTENOS';
+
+@mail($para, $asunto, utf8_decode($message), $header);
+echo("El formulario se ha enviado con éxito");*/
+
+
+
+
+
+
+
+        <div id="myCarousel2" class="carousel slide text-center" data-ride="carousel">
+          <!-- Indicators -->
+          <ol class="carousel-indicators">
+            <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel2" data-slide-to="1" data-interval="3000"></li>
+            <li data-target="#myCarousel2" data-slide-to="2"></li>
+            <li data-target="#myCarousel2" data-slide-to="3"></li>
+            <li data-target="#myCarousel2" data-slide-to="4"></li>
+            <li data-target="#myCarousel2" data-slide-to="5"></li>
+            <li data-target="#myCarousel2" data-slide-to="6"></li>
+            <li data-target="#myCarousel2" data-slide-to="7"></li>
+          </ol>
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner" role="listbox">
+
+            <div class="item active">
+              <img src="img/collado.png" alt="First slide">
+              <h4></h4>
+            </div>
+
+            <div class="item">
+              <img src="img/domino.png" alt="Second slide">
+              <h4></h4>
+            </div>
+
+            <div class="item">
+              <img src="img/heineken.png" alt="third slide">
+              <h4></h4>
+            </div>
+
+            <div class="item">
+              <img src="img/owens.jpg" alt="fourth slide">
+              <h4></h4>
+            </div>
+            <div class="item">
+              <img src="img/ROCACERO.png" alt="Fifth slide">
+              <h4></h4>
+            </div>
+            <div class="item">
+              <img src="img/san-nicolas.png" alt="Sixth slide">
+              <h4></h4>
+            </div>
+            <div class="item">
+              <img src="img/VITRO.jpg" alt="Seventh slide">
+              <h4></h4>
+            </div>
+            <div class="item">
+              <img src="img/schneider.jpg" alt="Eighth slide">
+              <h4></h4>
+            </div>
+          </div>
+          <!-- Left and right controls -->
+          <a class="left carousel-control" href="#myCarousel2" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="right carousel-control" href="#myCarousel2" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+
+
+         <div class="row">
+        <h2 text-align="center">Nuestros clientes</h2>
+
+        
+
+      </div>
